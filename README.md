@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, Meu nome é Marcelo Henriques 👋
+
+Sou Marcelo, tenho 46 anos, e estou no meio de uma transição de carreira, mudando meu foco do setor comercial para a área de Tecnologia. Atualmente, estou totalmente empenhado em ampliar meus conhecimentos nessa nova área. Estou cursando Engenharia de Dados pela ADA Tech, em parceria com o Santander Academy. Além desse curso principal, também estou envolvido em vários cursos complementares para diversificar e aprofundar meu aprendizado. Estou animado com essa nova jornada e determinado a aplicar tudo o que estou aprendendo para fazer a diferença no campo da tecnologia.
+
+
 
 <!--
 **MarceloHenriques/MarceloHenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
